@@ -58,7 +58,7 @@ export const data = [
       {
         id: 1,
         text: 'Роллинг',
-        isTrue: false,
+        isTrue: true,
       },
       {
         id: 2,
@@ -68,7 +68,7 @@ export const data = [
       {
         id: 3,
         text: 'Шишас',
-        isTrue: true,
+        isTrue: false,
       },
       {
         id: 4,
@@ -386,6 +386,136 @@ export const data = [
         id: 4,
         text: 'Лиса',
         isTrue: true,
+      },
+    ]
+  },
+  {
+    questionNumber: 16,
+    questionText: 'Куда к друзьям полетели Саша с Артемом?',
+    questionAnswers: [
+      {
+        id: 1,
+        text: 'Санкт-Петербург',
+        isTrue: false,
+      },
+      {
+        id: 2,
+        text: 'Самара',
+        isTrue: true,
+      },
+      {
+        id: 3,
+        text: 'Пенза',
+        isTrue: false,
+      },
+      {
+        id: 4,
+        text: 'Вильнюс',
+        isTrue: false,
+      },
+    ]
+  },
+  {
+    questionNumber: 17,
+    questionText: 'Самая спонтанное и сумасшедшее путешествие у Артема и Саши?',
+    questionAnswers: [
+      {
+        id: 1,
+        text: 'В Подмосковье',
+        isTrue: false,
+      },
+      {
+        id: 2,
+        text: 'В Санкт-Петербург',
+        isTrue: false,
+      },
+      {
+        id: 3,
+        text: 'На Ибицу',
+        isTrue: true,
+      },
+      {
+        id: 4,
+        text: 'В Мексику',
+        isTrue: false,
+      },
+    ]
+  },
+  {
+    questionNumber: 18,
+    questionText: 'Где больше всего времени проводили влюбленные?',
+    questionAnswers: [
+      {
+        id: 1,
+        text: 'Парк горького',
+        isTrue: false,
+      },
+      {
+        id: 2,
+        text: 'Музеон',
+        isTrue: true,
+      },
+      {
+        id: 3,
+        text: 'Парк в Гольяново',
+        isTrue: false,
+      },
+      {
+        id: 4,
+        text: 'Таганский парк',
+        isTrue: false,
+      },
+    ]
+  },
+  {
+    questionNumber: 19,
+    questionText: 'Что делала Саша когда Артём сделал предложение?',
+    questionAnswers: [
+      {
+        id: 1,
+        text: 'Прилетела в Москву',
+        isTrue: false,
+      },
+      {
+        id: 2,
+        text: 'Мыла пол',
+        isTrue: false,
+      },
+      {
+        id: 3,
+        text: 'Варила пельмени',
+        isTrue: true,
+      },
+      {
+        id: 4,
+        text: 'Разбирала вещи',
+        isTrue: false,
+      },
+    ]
+  },
+  {
+    questionNumber: 20,
+    questionText: 'Что сделала Саша после предложения?',
+    questionAnswers: [
+      {
+        id: 1,
+        text: 'Начала плакать',
+        isTrue: true,
+      },
+      {
+        id: 2,
+        text: 'Спряталась',
+        isTrue: false,
+      },
+      {
+        id: 3,
+        text: 'Обняла Артема',
+        isTrue: false,
+      },
+      {
+        id: 4,
+        text: 'Тут же сказала да❣️',
+        isTrue: false,
       },
     ]
   },
