@@ -182,7 +182,7 @@ export const data = [
     ]
   },
   {
-    questionNumber: 7,
+    questionNumber: 8,
     questionText: 'Любимое пирожное Артема, которое не ест Саша?',
     questionAnswers: [
       {
